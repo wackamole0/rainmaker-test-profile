@@ -3,5 +3,7 @@
   "name": "rainmaker/test",
   "repoUrl" : "https://github.com/wackamole0/rainmaker-test-profile.git",
   "downloadBaseUrl": "",
-  "profiles": []
+  "profiles": [
+    "version": "1.0",
+  ]
 }
